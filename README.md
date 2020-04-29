@@ -1,1 +1,1 @@
-# videoEditorImage `date`
+# videoEditorImage `date` `time`
