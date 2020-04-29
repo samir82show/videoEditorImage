@@ -1,1 +1,1 @@
-# videoEditorImage `date` `time`
+# videoEditorImage `date` `time` auto image creation
